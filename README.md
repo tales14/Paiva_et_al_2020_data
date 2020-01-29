@@ -1,0 +1,2 @@
+# Paiva_et_al_2020_data
+Data used to build the paper: INSECT HERBIVORES MODULATE OUTCROSSING RATE ACROSS SEED PLANTS 
