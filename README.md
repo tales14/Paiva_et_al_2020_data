@@ -2,7 +2,7 @@
 
 ### Data description
 
-dataset_complete_imputed --> data at populational level. 
+dataset_complete_imputed --> data at populational level.  
 dataset_mean_imputed --> data at species level.
 
 In both files, some continuous vegetative traits was calculated by phylogenetical imputation (see details in original paper).
